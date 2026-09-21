@@ -66,3 +66,8 @@ while True:
         print("\n-> Неверная команда, попробуйте снова.")
 
     time.sleep(1)
+
+
+
+
+# Co-authored-by: Artem <developmentarte096@gmail.com>"
